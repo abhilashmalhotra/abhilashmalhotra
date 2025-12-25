@@ -4,7 +4,7 @@ I’m a passionate Front-End Engineer who loves building clean, scalable, and us
 
 ---
 # 💫 About Me:
-- 🔭 I’m currently working on **Front-End projects using React** and **full-stack projects with Node.js**<br>- 👯 I’m looking to collaborate on **open-source projects**, especially in **React, UI libraries, or developer tooling**<br>- 🤝 I’m looking for help with **system design for front-end apps, performance optimization, and scalable architecture**<br>- 🌱 I’m currently learning **CI/CD with GitHub Actions** and strengthening my **backend skills**<br>- 💬 Ask me about **React, JavaScript, Front-End Architecture, UI performance, and best practices**<br>- ⚡ Fun fact: **I enjoy refactoring code almost as much as writing new features**<br>
+-🔭 I’m currently working on **Front-End projects using React** and **full-stack projects with Node.js**<br>- 👯 I’m looking to collaborate on **open-source projects**, especially in **React, UI libraries, or developer tooling**<br>- 🤝 I’m looking for help with **system design for front-end apps, performance optimization, and scalable architecture**<br>- 🌱 I’m currently learning **CI/CD with GitHub Actions** and strengthening my **backend skills**<br>- 💬 Ask me about **React, JavaScript, Front-End Architecture, UI performance, and best practices**<br>- ⚡ Fun fact: **I enjoy refactoring code almost as much as writing new features**<br>
 
 
 ## 🌐 Socials:
